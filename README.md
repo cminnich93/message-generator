@@ -1,25 +1,27 @@
-#Message Generator 
+# Message Generator 
+
 Random message generator script to guess the near future.
 
-#General info
+## General info
 
 This script is made for the back-end engineering learning path at Codecademy. Happy coding!
 
-#Technologies
+## Technologies
 
-Javascript / ECMAScript 2020
-Node - v14.8.0
+- JavaScript / ECMAScript 2020
+- Node.js - v14.8.0
 
-#Setup
+## Setup
 
 To run this project, install it locally using node and the file local:
 
 $ cd ../folder
-
 $ node script.js
 
-Inspiration
+## Inspiration
+
 Based on the Codecademy example.
 
-Contact
+## Contact
+
 Created by @cminnich93 - feel free to contact me!
